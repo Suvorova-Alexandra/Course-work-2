@@ -4,8 +4,8 @@ Java client-server app for valuation of the company cost by the method of analog
 ![The functionality of the application is presented in the use-case diagram:](diagrams/UseCase.vpd.jpg)
 
 ## Architecture
-![Server](diagrams/серверклмпоненты.vpd (1).jpg)
+![Server])
 
 ![Client](diagrams/clientcomponents.vpd.jpg)
 
-![Deployment diagram](diagrams/диаграмма развертывания .vpd.jpg)
+![Deployment diagram]()
