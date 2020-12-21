@@ -1,4 +1,4 @@
-## Java client-server app for valuation of the company cost by the method of analogous companies
+## Course project for valuation of the company cost by the method of analogous companies
 A user can register, enter the necessary data and get an estimate of the value of his company.
 ## Technologies
 UI: Swing, AWT
