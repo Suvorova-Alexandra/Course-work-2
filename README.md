@@ -9,7 +9,8 @@ Architecture patterns: MVC, DAO
 ![The functionality of the application is presented in the use-case diagram:](diagrams/UseCase.vpd.jpg)
 
 ## Architecture
+Server components:
 ![Server](diagrams/serverComponents.vpd.jpg)
-
+Client components:
 ![Client](diagrams/clientcomponents.vpd.jpg)
 
